@@ -8,6 +8,9 @@
     margin: 2px;
     float: left;
 }
+li{
+    list-style: none;
+}
 .alizarin {
     background-color: #e74c3c;
 }
